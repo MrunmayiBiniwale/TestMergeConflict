@@ -1,2 +1,1 @@
-# TestMergeConflict
-Test merge conflict
+REMOTE
